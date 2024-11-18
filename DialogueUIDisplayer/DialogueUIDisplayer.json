@@ -1,0 +1,12 @@
+{
+  "Author": "ECHODUSK",
+  "Name": "Dialogue UI Displayer",
+  "Punchline": "Reads and displays chat text on the screen.",
+  "Description": "Reads chat text and displays it on the screen where you want it. e.g. Nael quotes if you don't want to read them from the chat.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "chat",
+    "ui",
+    "text"
+  ]
+}
